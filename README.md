@@ -353,7 +353,8 @@ which is okay.
 ## About this document
 
 *Elegant Documentation Principles* is created and maintained by
-[Sean Madsen]() and available on [GitHub].
+[Sean Madsen](https://github.com/seanmadsen) and available on 
+[GitHub](https://github.com/seanmadsen/elegant-docs).
 
 Please suggest changes by making a pull request.
 
