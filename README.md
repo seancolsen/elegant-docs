@@ -122,7 +122,7 @@ Encourage *everyone* to become a
 
 ### ARID
 
-***A**ccept (some) **R**epetition **I**n **D**ocumentation.*
+*Accept (some) Repetition In Documentation.*
 
 If you want to write good code,
 [Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
