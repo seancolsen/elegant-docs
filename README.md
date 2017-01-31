@@ -335,7 +335,7 @@ improvements from others for whom it is.
 ### Comprehensive
 
 *Ensure that together, all the publications in the body of documentation can
-answer all questions the user is likely have.*
+answer all questions the user is likely to have.*
 
 We can never create enough documentation to satisfy *all* questions, however
 obscure, that might arise from users &mdash; but satisfying the *likely*
